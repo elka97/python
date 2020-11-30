@@ -1,0 +1,8 @@
+Ivanov 45000.99
+Petrov 12700.88
+Sidorov 25000.11
+Ivanova 23543.12
+Petrova 13749.32
+Pupkina 13543.12
+Sidorov 18749.32
+Pupkin 30500
